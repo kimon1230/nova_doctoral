@@ -1,0 +1,3 @@
+bgg_data.json filter=lfs diff=lfs merge=lfs -text
+tpp_data.json filter=lfs diff=lfs merge=lfs -text
+tp_data.json filter=lfs diff=lfs merge=lfs -text
